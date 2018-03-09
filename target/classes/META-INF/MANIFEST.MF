@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: file-api-1
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: IanChan
+Implementation-Vendor-Id: com.file
+Build-Jdk: 1.8.0_40
+Implementation-URL: http://projects.spring.io/spring-boot/file-api-1/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

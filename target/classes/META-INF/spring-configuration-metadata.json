@@ -1,0 +1,18 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.file.config.StorageProperties",
+      "name": "storage",
+      "type": "com.file.config.StorageProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.file.config.StorageProperties",
+      "name": "storage.location",
+      "description": "Folder location for storing files",
+      "type": "java.lang.String"
+    }
+  ]
+}
